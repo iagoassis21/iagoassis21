@@ -18,20 +18,23 @@
 </p>
 
 ## [![Tech Stack](https://fontmeme.com/permalink/211027/50b50884f8ad587c57f541cd88670895.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Gardevoir](https://img.pokemondb.net/sprites/black-white/anim/normal/gardevoir.gif)
-![HTML](https://img.shields.io/badge/-HTML5-121214?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-121214?style=flat&logo=css3&logoColor=1572B6)
-![Javascript](https://img.shields.io/badge/-Javascript-121214?style=flat&logo=javascript)
-![React.js](https://img.shields.io/badge/-React-121214?style=flat&logo=react)
-![Typescript](https://img.shields.io/badge/-Typescript-121214?style=flat&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Nodejs-121214?style=flat&logo=node.js)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Router Dom](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 <br /><br />
-![Git](https://img.shields.io/badge/-Git-121214?style=flat&logo=git)
-![Github](https://img.shields.io/badge/-Github-121214?style=flat&logo=github)
-![VSCode](https://img.shields.io/badge/-VisualStudioCode-121214?style=flat&logo=visualstudiocode&logoColor=1572B9)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## [![Socials](https://fontmeme.com/permalink/211027/79dbaf06524adc6d95cc6e4e17cbf777.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Vaporeon](https://img.pokemondb.net/sprites/black-white/anim/normal/vaporeon.gif)
-<a href="https://www.linkedin.com/in/iago-goncalves/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-121214?style=flat&logo=linkedin&logoColor=1572B6" alt="Linkedin"></a>
-<a href="https://www.instagram.com/iago_gonsalves/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-121214?style=flat&logo=instagram" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/iago-goncalves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+<a href="https://www.instagram.com/iago_gonsalves/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 ## [![Favorite Repo's](https://fontmeme.com/permalink/211029/ca7c57ba244e74616ef9c50e90047114.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Lucario](https://img.pokemondb.net/sprites/black-white/anim/normal/lucario.gif)
 <p align="center">
