@@ -25,8 +25,8 @@
 ## [![Github Analytics](https://fontmeme.com/permalink/211027/be6fb00c112c4f841169e0e77ea27a3a.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Gengar](https://img.pokemondb.net/sprites/black-white/anim/normal/gengar.gif)
   
 <p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iagoassis21&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="iagoassis21" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=iagoassis21&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt=iagoassis21" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iagoassis21&show_icons=true&theme=gruvbox_light&hide_border=true" alt="iagoassis21" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=iagoassis21&show_icons=true&theme=gruvbox_light&layout=compact&hide_border=true" alt=iagoassis21" />
 </p>
 
 </div>
