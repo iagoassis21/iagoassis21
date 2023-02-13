@@ -65,10 +65,5 @@
 
 <div align="center">
                    
-## [![Favorite Repo's](https://fontmeme.com/permalink/211029/ca7c57ba244e74616ef9c50e90047114.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Lucario](https://img.pokemondb.net/sprites/black-white/anim/normal/lucario.gif)
-<p align="center">
-   🚧 Working...
-</p>
-                 
+## [![Favorite Repo's](https://fontmeme.com/permalink/211029/ca7c57ba244e74616ef9c50e90047114.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Lucario](https://img.pokemondb.net/sprites/black-white/anim/normal/lucario.gif)              
 </div>
-
