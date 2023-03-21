@@ -14,7 +14,7 @@
 
   - 👨🏽‍💻 Hi my name is **Iago** and I'm a **Front-End Developer!**
 
-  - 📚 I’m currently studying: **Front-end and Back-end with React.js, Node.js, Javascript and Typescript.**
+  - 📚 I’m currently studying: **Front-end and Back-end with React.js, Next.js, Node.js, Javascript and Typescript.**
 
   - ℹ️ Hobbies: **Games 🎮 | Music 🎧 | Watch Sports 🏎️⚽🏐🏀**
 
